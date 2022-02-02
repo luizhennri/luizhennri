@@ -1,12 +1,12 @@
-## Welcome!
+## Olá!
 
-### 🌌 About Me
+### 🌌 Sobre mim
 
-- 👦🏻 I'm Luiz ...
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
+<!--
+Meu nome é Luiz Henrique. Atualmente, estou graduando Engenharia de Computação na UNIFEI. Tenho interesse nas áreas de ciências dos dados e inteligência artificial. Possuo um bom conhecimento de c, c++ e Python e busco cada vez mais me aprimorar nessas linguagens além de aprender outras. 
 
+Hobbies: No meu tempo livre gosto de estudar sobre hardware e mecher em peças de computador, além de jogar xadrez, andar de bicicleta, jogar poker e cozinhar.
+-->
 ---
 ### 📋 GitHub Stats
 
@@ -22,10 +22,10 @@
 </div>
   
 ---
-### 🗂 Projects
-* **Gas Pump**: 
+### 🗂 Projetos
+* **Bomba de Combustível:** [Simulador do funcionamento de uma bomba de combustível](https://github.com/luizhennri/Projeto_Final-ECOP14-UNIFEI)
 ---
-### 🔗 Contact Me At
+### 🔗 Contatos
 
-* **Email**: [luizhenri.alvesnascimento@gmail.com](mailto:luizhenri.alvesnascimento@gmail.com)
-* **LinkedIn**: [https://www.linkedin.com/in/luizhalves/](https://www.linkedin.com/in/luizhalves/)
+* **Email:** [luizhenri.alvesnascimento@gmail.com](mailto:luizhenri.alvesnascimento@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/luizhalves/](https://www.linkedin.com/in/luizhalves/)
