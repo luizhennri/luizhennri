@@ -23,7 +23,7 @@ Hobbies: No meu tempo livre gosto de estudar sobre hardware e mecher em peças d
   
 ---
 ### 🗂 Projetos
-* **Bomba de Combustível:** [Simulador do funcionamento de uma bomba de combustível](https://github.com/luizhennri/Projeto_Final-ECOP14-UNIFEI)
+* **Bomba de Combustível:** [Simulador de uma bomba de combustível](https://github.com/luizhennri/Projeto_Final-ECOP14-UNIFEI)
 ---
 ### 🔗 Contatos
 
