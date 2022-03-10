@@ -24,6 +24,7 @@ Hobbies: No meu tempo livre gosto de estudar sobre hardware e mecher em peças d
 ---
 ### 🗂 Projetos
 * **Bomba de Combustível:** [Simulador de uma bomba de combustível](https://github.com/luizhennri/Projeto_Final-ECOP14-UNIFEI)
+* **Free Cell:** [Jogo Free Cell implementado em C](https://github.com/luizhennri/Free_Cell)
 ---
 ### 🔗 Contatos
 
