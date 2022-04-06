@@ -2,11 +2,12 @@
 
 ### 🌌 Sobre mim
 
-<!--
-Meu nome é Luiz Henrique. Atualmente, estou graduando Engenharia de Computação na UNIFEI. Tenho interesse nas áreas de inteligência artificial, machine learning, estrtura de dados e banco de dados. Possuo um bom conhecimento de c, c++ e Python e busco cada vez mais me aprimorar nessas linguagens além de aprender outras. 
+Graduando em Engenharia de Computação na UNIFEI. Tenho interesse nas áreas de inteligência artificial, machine learning, estrtura de dados e banco de dados. Possuo um bom conhecimento de c, c++ e Python e busco cada vez mais me aprimorar nessas linguagens além de aprender outras. 
 
-Hobbies: No meu tempo livre gosto de estudar sobre hardware e mecher em peças de computador, além de jogar xadrez, andar de bicicleta, jogar poker e cozinhar.
--->
+Atualmente trabalho em um projeto envolvendo web scraping, análise de dados, inteligência artificial e banco de dados.
+
+Hobbies: Estudar sobre hardware e mecher em peças de computador, jogar xadrez, andar de bicicleta, jogar poker e cozinhar.
+
 ---
 ### 📋 GitHub Stats
 
