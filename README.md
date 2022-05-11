@@ -2,7 +2,7 @@
 
 ### 🌌 Sobre mim
 
-Graduando em Engenharia de Computação na UNIFEI. Tenho interesse nas áreas de inteligência artificial, machine learning, estrtura de dados e banco de dados. Possuo um bom conhecimento de c, c++ e Python e busco cada vez mais me aprimorar nessas linguagens além de aprender outras. 
+Graduando em Engenharia de Computação na UNIFEI. Tenho interesse nas áreas de inteligência artificial, machine learning, estrutura de dados e banco de dados. Possuo um bom conhecimento de c, c++ e Python e busco cada vez mais me aprimorar nessas linguagens além de aprender outras. 
 
 Atualmente trabalho em um projeto envolvendo web scraping, análise de dados, inteligência artificial e banco de dados.
 
