@@ -13,7 +13,7 @@ Hobbies: Estudar sobre hardware e mecher em peças de computador, jogar xadrez, 
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizhennri&theme=tokyonight&icon_color=1b93c9&show_icons=true&include_all_commits=true&count_private=true"/>
-<img wheight="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhennri&layout=compact&theme=tokyonight&langs_count=3&hide=swig,makefile,shell"/>
+<img wheight="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhennri&layout=compact&theme=tokyonight&langs_count=7&hide=swig,makefile,shell"/>
 </div>
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
