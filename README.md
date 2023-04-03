@@ -1,12 +1,10 @@
-## Olá!
+## Hello!
 
-### 🌌 Sobre mim
+### 👨🏻‍🎓 About me
 
-Graduando em Engenharia de Computação na UNIFEI. Tenho interesse nas áreas de inteligência artificial, machine learning, estrutura de dados e banco de dados. Possuo um bom conhecimento de c, c++ e Python e busco cada vez mais me aprimorar nessas linguagens além de aprender outras. 
+Graduating in economics from University of São Paulo with an interest in the areas of equity and quantum (financial market). Currently studying python and data analysis.
 
-Atualmente trabalho em um projeto envolvendo web scraping, análise de dados, inteligência artificial e banco de dados.
-
-Hobbies: Estudar sobre hardware e mecher em peças de computador, jogar xadrez, andar de bicicleta, jogar poker e cozinhar.
+Hobbies: Study about hardware, play videogames, chess, poker, cook, cycling and go out with friends.
 
 ---
 ### 📋 GitHub Stats
@@ -16,18 +14,20 @@ Hobbies: Estudar sobre hardware e mecher em peças de computador, jogar xadrez, 
 <img wheight="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhennri&layout=compact&theme=tokyonight&langs_count=7&hide=swig,makefile,shell"/>
 </div>
 <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
   
 ---
-### 🗂 Projetos
-* **Bomba de Combustível:** [Simulador de uma bomba de combustível](https://github.com/luizhennri/Projeto_Final-ECOP14-UNIFEI)
-* **Free Cell:** [Jogo Free Cell implementado em C](https://github.com/luizhennri/Free_Cell)
+### 🗂 Projects
+* **Pump fuel:** [Simulator of a fuel pump](https://github.com/luizhennri/Projeto_Final-ECOP14-UNIFEI)
+* **Free Cell:** [Game Free Cell implemented in C](https://github.com/luizhennri/Free_Cell)
 ---
-### 🔗 Contatos
+### 🔗 Contacts
 
 * **Email:** [luizhenri.alvesnascimento@gmail.com](mailto:luizhenri.alvesnascimento@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/luizhalves/](https://www.linkedin.com/in/luizhalves/)
