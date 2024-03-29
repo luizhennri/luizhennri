@@ -24,8 +24,10 @@ Hobbies: Study about hardware, play videogames, chess, poker, cook, cycling and 
   
 ---
 ### 🗂 Projects
-* **Pump fuel:** [Simulator of a fuel pump](https://github.com/luizhennri/Projeto_Final-ECOP14-UNIFEI)
+* **Pump Fuel:** [Simulator of a fuel pump](https://github.com/luizhennri/Projeto_Final-ECOP14-UNIFEI)
 * **Free Cell:** [Game Free Cell implemented in C](https://github.com/luizhennri/Free_Cell)
+* **IG Followers Collector:** [Followers collector from any Instagram profile](https://github.com/luizhennri/instagram_profiles_analysis)
+* **LawSuit Scrap:** [Web Scraping from TJSP](https://github.com/luizhennri/scrap_tjsp)  
 ---
 ### 🔗 Contacts
 
