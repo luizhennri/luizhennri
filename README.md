@@ -10,7 +10,7 @@ Hobbies: Study about hardware, play videogames, chess, poker, cook, cycling and 
 ### 📋 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizhennri&theme=tokyonight&icon_color=1b93c9&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizhennri&theme=tokyonight&icon_color=1b93c9&show_icons=true&count_private=true"/>
   &nbsp;
   <img wheight="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhennri&layout=compact&theme=tokyonight&langs_count=7&hide=swig,makefile,shell"/>
 </div>
